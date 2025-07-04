@@ -2,8 +2,7 @@
 <br>
 A beginner-friendly Python script that generates a fun band name based on your city and pet name.
 <br>
-This is a beginner-friendly Python script that creates a fun band name using your city and pet's name.
-<br>
+
 ## 📌 What This Does
 It takes two inputs from the user:
 1. The name of the city you grew up in
