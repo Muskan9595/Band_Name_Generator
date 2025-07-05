@@ -13,7 +13,7 @@ Then it combines them and gives you a cool band name idea!
 ## 🛠️ How to Run
 
 1. Make sure you have Python installed (version 3+).
-2. Run the script in your terminal or any Python IDE:
+2. Run the script in your terminal or any Python IDE:  
 
 ```bash
 python band_name_generator.py
